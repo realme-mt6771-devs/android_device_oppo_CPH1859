@@ -7,6 +7,9 @@
 DEVICE_PATH := device/oppo/CPH1859
 BOARD_VENDOR := oppo
 
+# Inherit from mt6771-common
+-include device/realme/mt6771-common/BoardConfigCommon.mk
+
 # Assertions
 TARGET_OTA_ASSERT_DEVICE := CPH1859,CPH1861
 
