@@ -961,8 +961,6 @@ vendor/bin/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-service
 vendor/etc/init/vendor.mediatek.hardware.log@1.0-service.rc
 vendor/etc/init/vendor.mediatek.hardware.mms@1.1-service.rc
 vendor/etc/init/vendor.mediatek.hardware.mtkcodecservice@1.1-service.rc
-vendor/etc/media_codecs_mediatek_audio.xml
-vendor/etc/media_codecs_mediatek_video.xml
 vendor/lib/hw/vendor.mediatek.hardware.mms@1.1-impl.so
 vendor/lib/hw/vendor.mediatek.hardware.mtkcodecservice@1.1-impl.so
 vendor/lib/hw/vendor.mediatek.hardware.videotelephony@1.0-impl.so
@@ -1076,8 +1074,6 @@ vendor/etc/init/vendor.oppo.hardware.cryptoeng@1.0-service_FDE.rc
 vendor/etc/init/vendor.oppo.hardware.ktv@1.0-service.rc
 vendor/etc/init/vendor.oppo.hardware.oiface@1.0-service.rc
 vendor/etc/mddb/DbgInfo_LR12A.R2.PIE.RM.PR2.TC16.SP_OPPO6771_17065_MOLY_LR12A_R2_PIE_RM_PR2_TC16_SP_V1_P3_2020_02_12_21_15_1_ulwctg_n
-vendor/etc/media_codecs_oppo_performance.xml
-vendor/etc/media_codecs_oppo_video.xml
 vendor/etc/permissions/vendor-oppo-engnative-engineer.xml
 vendor/etc/permissions/vendor-oppo-hardware.cryptoeng.xml
 vendor/lib/hw/vendor.oppo.hardware.ktv@1.0-impl.so
